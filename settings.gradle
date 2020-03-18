@@ -1,0 +1,2 @@
+rootProject.name='Media Picker Library'
+include ':app'
